@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="55px" height="65px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="59.5" y1="153.284671532847" x2="59.5" y2="220" id="LinearGradient9">
+      <stop id="Stop10" stop-color="#5f6f9f" offset="0" />
+      <stop id="Stop11" stop-color="#d1d4da" offset="0" />
+      <stop id="Stop12" stop-color="#a5acc3" offset="0" />
+      <stop id="Stop13" stop-color="#bbc0cf" offset="0" />
+      <stop id="Stop14" stop-color="#c5c9d4" offset="0" />
+      <stop id="Stop15" stop-color="#e4e4e4" offset="1" />
+      <stop id="Stop16" stop-color="#ffffff" offset="1" />
+    </linearGradient>
+  </defs>
+  <g transform="matrix(1 0 0 1 -32 -155 )">
+    <path d="M 43.5 218.5  L 85.5 218.5  L 85.5 176.5  L 65.5 156.5  L 33.5 156.5  L 33.5 208.5  L 38.5 208.5  L 38.5 213.5  L 43.5 213.5  L 43.5 218.5  Z " fill-rule="nonzero" fill="url(#LinearGradient9)" stroke="none" />
+    <path d="M 43 219  L 86 219  L 86 176  L 66 156  L 33 156  L 33 209  L 38 209  L 38 214  L 43 214  L 43 219  Z " stroke-width="2" stroke="#5f6f9f" fill="none" />
+    <path d="M 76 171  L 81 172  L 81 214  L 44 214  M 66 157  L 66 166  L 76 166  L 76 209  L 39 209  M 85 176  L 81 176  " stroke-width="2" stroke="#5f6f9f" fill="none" />
+  </g>
+</svg>
